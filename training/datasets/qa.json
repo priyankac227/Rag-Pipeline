@@ -1,0 +1,106 @@
+[
+  {
+    "question": "What is the maximum press force of the HP-200?",
+    "context": "The HP-200 has a maximum press force of 200 tons. The maximum operating pressure is 250 bar. The hydraulic reservoir capacity is 120 liters and the recommended oil is ISO VG 46. The main motor is rated at 15 kW.",
+    "answer": "200 tons",
+    "answer_start": 40,
+    "answer_sentence": "The HP-200 has a maximum press force of 200 tons.",
+    "source": "human"
+  },
+  {
+    "question": "What is the maximum operating pressure?",
+    "context": "The HP-200 has a maximum press force of 200 tons. The maximum operating pressure is 250 bar. The hydraulic reservoir capacity is 120 liters and the recommended oil is ISO VG 46. The main motor is rated at 15 kW.",
+    "answer": "250 bar",
+    "answer_start": 84,
+    "answer_sentence": "The maximum operating pressure is 250 bar.",
+    "source": "human"
+  },
+  {
+    "question": "How large is the hydraulic reservoir?",
+    "context": "The HP-200 has a maximum press force of 200 tons. The maximum operating pressure is 250 bar. The hydraulic reservoir capacity is 120 liters and the recommended oil is ISO VG 46. The main motor is rated at 15 kW.",
+    "answer": "120 liters",
+    "answer_start": 129,
+    "answer_sentence": "The hydraulic reservoir capacity is 120 liters and the recommended oil is ISO VG 46.",
+    "source": "human"
+  },
+  {
+    "question": "Which oil is recommended for the press?",
+    "context": "The HP-200 has a maximum press force of 200 tons. The maximum operating pressure is 250 bar. The hydraulic reservoir capacity is 120 liters and the recommended oil is ISO VG 46. The main motor is rated at 15 kW.",
+    "answer": "ISO VG 46",
+    "answer_start": 167,
+    "answer_sentence": "The hydraulic reservoir capacity is 120 liters and the recommended oil is ISO VG 46.",
+    "source": "human"
+  },
+  {
+    "question": "What is the power rating of the main motor?",
+    "context": "The HP-200 has a maximum press force of 200 tons. The maximum operating pressure is 250 bar. The hydraulic reservoir capacity is 120 liters and the recommended oil is ISO VG 46. The main motor is rated at 15 kW.",
+    "answer": "15 kW",
+    "answer_start": 205,
+    "answer_sentence": "The main motor is rated at 15 kW.",
+    "source": "human"
+  },
+  {
+    "question": "What must be engaged before maintenance?",
+    "context": "Always disconnect the main power supply and engage the lockout tag before any maintenance. Wear safety glasses, gloves and steel-toe boots. Never place hands inside the press area while the ram is in motion.",
+    "answer": "lockout tag",
+    "answer_start": 55,
+    "answer_sentence": "Always disconnect the main power supply and engage the lockout tag before any maintenance.",
+    "source": "human"
+  },
+  {
+    "question": "What protective equipment is required?",
+    "context": "Always disconnect the main power supply and engage the lockout tag before any maintenance. Wear safety glasses, gloves and steel-toe boots. Never place hands inside the press area while the ram is in motion.",
+    "answer": "safety glasses, gloves and steel-toe boots",
+    "answer_start": 96,
+    "answer_sentence": "Wear safety glasses, gloves and steel-toe boots.",
+    "source": "human"
+  },
+  {
+    "question": "What torque should the filter housing be tightened to?",
+    "context": "1. Stop the press and disconnect the main power supply.\n2. Release residual pressure by opening the relief valve slowly.\n3. Place a drip tray under the filter housing and unscrew the housing counter-clockwise.\n4. Remove the old filter element and inspect the housing for metal particles.\n5. Lubricate the new O-ring with clean hydraulic oil and install the new element.\n6. Tighten the housing to 40 Nm, restore power and run the press for five minutes to check for leaks.\n\nThe hydraulic filter must be replaced every 500 operating hours or once a year, whichever comes first.",
+    "answer": "40 Nm",
+    "answer_start": 396,
+    "answer_sentence": "6. Tighten the housing to 40 Nm, restore power and run the press for five minutes to check for leaks.",
+    "source": "human"
+  },
+  {
+    "question": "How should the residual pressure be released?",
+    "context": "1. Stop the press and disconnect the main power supply.\n2. Release residual pressure by opening the relief valve slowly.\n3. Place a drip tray under the filter housing and unscrew the housing counter-clockwise.\n4. Remove the old filter element and inspect the housing for metal particles.\n5. Lubricate the new O-ring with clean hydraulic oil and install the new element.\n6. Tighten the housing to 40 Nm, restore power and run the press for five minutes to check for leaks.\n\nThe hydraulic filter must be replaced every 500 operating hours or once a year, whichever comes first.",
+    "answer": "opening the relief valve slowly",
+    "answer_start": 88,
+    "answer_sentence": "2. Release residual pressure by opening the relief valve slowly.",
+    "source": "human"
+  },
+  {
+    "question": "What should be checked first if the pressure is low?",
+    "context": "If the pressure gauge reads below 200 bar under load, first check the oil level in the reservoir. Next inspect the suction strainer for blockage. If the pressure is still low, test the relief valve setting and adjust it to 250 bar. Persistent low pressure usually indicates a worn pump and requires service by a certified technician.",
+    "answer": "the oil level in the reservoir",
+    "answer_start": 66,
+    "answer_sentence": "If the pressure gauge reads below 200 bar under load, first check the oil level in the reservoir.",
+    "source": "human"
+  },
+  {
+    "question": "What does a persistent low pressure usually indicate?",
+    "context": "If the pressure gauge reads below 200 bar under load, first check the oil level in the reservoir. Next inspect the suction strainer for blockage. If the pressure is still low, test the relief valve setting and adjust it to 250 bar. Persistent low pressure usually indicates a worn pump and requires service by a certified technician.",
+    "answer": "a worn pump",
+    "answer_start": 274,
+    "answer_sentence": "Persistent low pressure usually indicates a worn pump and requires service by a certified technician.",
+    "source": "human"
+  },
+  {
+    "question": "What is the maximum oil temperature?",
+    "context": "The oil temperature must not exceed 60 degrees Celsius. If the oil overheats, clean the cooler fins, verify the coolant fan is running and check that the oil grade is ISO VG 46. Error code E27 indicates an oil over-temperature fault and the press will stop automatically.",
+    "answer": "60 degrees Celsius",
+    "answer_start": 36,
+    "answer_sentence": "The oil temperature must not exceed 60 degrees Celsius.",
+    "source": "human"
+  },
+  {
+    "question": "What does error code E27 indicate?",
+    "context": "The oil temperature must not exceed 60 degrees Celsius. If the oil overheats, clean the cooler fins, verify the coolant fan is running and check that the oil grade is ISO VG 46. Error code E27 indicates an oil over-temperature fault and the press will stop automatically.",
+    "answer": "an oil over-temperature fault",
+    "answer_start": 203,
+    "answer_sentence": "Error code E27 indicates an oil over-temperature fault and the press will stop automatically.",
+    "source": "human"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What is the maximum operating pressure of the HP-200?",
+    "ground_truth": "The maximum operating pressure is 250 bar.",
+    "gold_substring": "250 bar"
+  },
+  {
+    "question": "What oil does the hydraulic reservoir need?",
+    "ground_truth": "ISO VG 46 hydraulic oil.",
+    "gold_substring": "ISO VG 46"
+  },
+  {
+    "question": "How do I replace the hydraulic filter?",
+    "ground_truth": "Disconnect power, release residual pressure, unscrew the housing, replace the element with a lubricated O-ring, tighten to 40 Nm and check for leaks.",
+    "gold_substring": "Release residual pressure"
+  },
+  {
+    "question": "How often should the hydraulic filter be replaced?",
+    "ground_truth": "Every 500 operating hours or once a year, whichever comes first.",
+    "gold_substring": "500 operating hours"
+  },
+  {
+    "question": "What does error code E27 mean?",
+    "ground_truth": "An oil over-temperature fault; the press stops automatically.",
+    "gold_substring": "E27"
+  },
+  {
+    "question": "What should I check if the pressure gauge reads low?",
+    "ground_truth": "Check the oil level, inspect the suction strainer, test the relief valve; a worn pump needs technician service.",
+    "gold_substring": "suction strainer"
+  },
+  {
+    "question": "What safety gear is needed and how do I make the machine safe before service?",
+    "ground_truth": "Wear safety glasses, gloves and steel-toe boots; disconnect main power and engage the lockout tag.",
+    "gold_substring": "lockout tag"
+  }
+]

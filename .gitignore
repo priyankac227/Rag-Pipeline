@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+training/_checkpoints_*/
+evaluation/results.json
+vector_store/*
+!vector_store/.gitkeep
+trained_models/*/*
+!trained_models/*/.gitkeep

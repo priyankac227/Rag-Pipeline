@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Always disconnect the main power supply and engage the lockout tag before any maintenance. Wear safety glasses, gloves and steel-toe boots. Never place hands inside the press area while the ram is in motion.",
+    "summary": "Before maintenance, cut main power and apply the lockout tag, wear safety glasses, gloves and steel-toe boots, and keep hands out of the press area while the ram moves.",
+    "source": "human"
+  },
+  {
+    "text": "The HP-200 has a maximum press force of 200 tons. The maximum operating pressure is 250 bar. The hydraulic reservoir capacity is 120 liters and the recommended oil is ISO VG 46. The main motor is rated at 15 kW.",
+    "summary": "The HP-200 delivers 200 tons of force at up to 250 bar, has a 120-liter reservoir filled with ISO VG 46 oil, and a 15 kW motor.",
+    "source": "human"
+  },
+  {
+    "text": "1. Stop the press and disconnect the main power supply.\n2. Release residual pressure by opening the relief valve slowly.\n3. Place a drip tray under the filter housing and unscrew the housing counter-clockwise.\n4. Remove the old filter element and inspect the housing for metal particles.\n5. Lubricate the new O-ring with clean hydraulic oil and install the new element.\n6. Tighten the housing to 40 Nm, restore power and run the press for five minutes to check for leaks.\n\nThe hydraulic filter must be replaced every 500 operating hours or once a year, whichever comes first.",
+    "summary": "To change the hydraulic filter: power off, release pressure via the relief valve, unscrew the housing, replace the element with a lubricated O-ring, tighten to 40 Nm, and run the press five minutes to check for leaks.",
+    "source": "human"
+  },
+  {
+    "text": "If the pressure gauge reads below 200 bar under load, first check the oil level in the reservoir. Next inspect the suction strainer for blockage. If the pressure is still low, test the relief valve setting and adjust it to 250 bar. Persistent low pressure usually indicates a worn pump and requires service by a certified technician.",
+    "summary": "For low pressure, check the oil level and suction strainer, then verify the relief valve is set to 250 bar; if it persists the pump is likely worn and needs a certified technician.",
+    "source": "human"
+  },
+  {
+    "text": "The oil temperature must not exceed 60 degrees Celsius. If the oil overheats, clean the cooler fins, verify the coolant fan is running and check that the oil grade is ISO VG 46. Error code E27 indicates an oil over-temperature fault and the press will stop automatically.",
+    "summary": "Oil must stay below 60 C; if it overheats, clean the cooler fins, check the fan and oil grade. Error E27 signals an over-temperature fault and stops the press.",
+    "source": "human"
+  },
+  {
+    "text": "The hydraulic filter must be replaced every 500 operating hours or once a year, whichever comes first. 1. Stop the press and disconnect the main power supply.\n2. Release residual pressure by opening the relief valve slowly.\n3. Place a drip tray under the filter housing and unscrew the housing counter-clockwise.\n4. Remove the old filter element and inspect the housing for metal particles.\n5. Lubricate the new O-ring with clean hydraulic oil and install the new element.\n6. Tighten the housing to 40 Nm, restore power and run the press for five minutes to check for leaks.\n\nThe hydraulic filter must be replaced every 500 operating hours or once a year, whichever comes first.",
+    "summary": "Replace the hydraulic filter every 500 hours or yearly. The procedure involves isolating power, relieving pressure, swapping the element and O-ring, torquing to 40 Nm and leak-testing.",
+    "source": "human"
+  }
+]
